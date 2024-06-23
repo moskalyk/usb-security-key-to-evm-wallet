@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.button-container {
+  color: grey;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.button-container button {
+  margin: 10px; /* Adjust as needed */
+}
+
+input {
+  margin: 2px;
+}
